@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 600" style="enable-background:new 0 0 800 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#9DDDF4;}
+	.st1{fill:#707F5E;}
+	.st2{fill:#961E1E;}
+	.st3{fill:#9E9E9E;}
+	.st4{fill:#020202;}
+	.st5{fill:#660A0A;}
+	.st6{fill:#3A1C04;}
+</style>
+<g id="sky">
+	<g>
+		<rect class="st0" width="800" height="600"/>
+	</g>
+</g>
+<g id="earth">
+	<g>
+		<path class="st1" d="M0,317c54.7-21.4,132.1-96.4,324-98s241.6,110.1,359,106s117,5.1,117,5.1V600H-1L0,317z"/>
+	</g>
+</g>
+<g id="barn">
+	<rect id="barn-building" x="291" y="171.5" class="st2" width="155" height="155"/>
+	<polygon id="barn-roof" class="st3" points="291,171.5 337,132 368.5,120 400,134 446,171.5 	"/>
+	<rect id="barn-interior" x="324.2" y="267" class="st4" width="97.7" height="59.5"/>
+	<rect id="barn-door-left" x="324.2" y="267" class="st5" width="48.9" height="59.5"/>
+	<rect id="barn-door-right" x="373" y="267" class="st5" width="48.9" height="59.5"/>
+</g>
+<g id="windmill">
+	<rect id="pole" x="535.3" y="209.3" class="st6" width="8" height="196"/>
+	<path id="fan" class="st3" d="M539.3,223.5l14.4,14.4c3-1.5,5.7-3.5,8.2-5.9c1.9-1.9,3.5-4,4.9-6.2l-14.9-14.9l16-16
+		c-1.5-3-3.5-5.7-5.9-8.2c-2.5-2.5-5.2-4.4-8.2-5.9l-16,16l-14.9-14.9c-2.2,1.3-4.3,2.9-6.2,4.9c-2.4,2.4-4.3,5-5.8,7.9l14.5,14.5
+		l-14.7,14.7c1.5,3,3.5,5.7,5.9,8.2c2.5,2.5,5.2,4.4,8.2,5.9L539.3,223.5z"/>
+</g>
+</svg>
